@@ -79,7 +79,7 @@ python heart_prediction.py
 ---
 
 ## 📷 Output Example
-*![Output Screenshot](Figure_1.png)*
+![Output Screenshot](Figure_1.png)
 
 ---
 
